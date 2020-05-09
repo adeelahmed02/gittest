@@ -1,0 +1,43 @@
+.text{
+    background-color: rgb(82, 165, 0);
+    color: white;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    width: 300px;
+
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.Assigment{
+    margin: 10PX;
+    padding: 10PX;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    align-content: center;
+    background-color: rgb(223, 219, 223);
+    float: left;  
+    margin: 10 auto;  
+    
+}
+
+.image{
+    width: 280px;
+    height: 150px;
+
+}
+
+
+  .Assigment:hover {
+    transform: scale(1.1);}
+
+.profile{
+  padding: 10px;
+    color: white;
+    background-image: linear-gradient(to bottom, #094cb1, #1348c3, #2e40d4, #4b32e1, #6a12eb);}
+
